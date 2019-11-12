@@ -15,5 +15,7 @@ In the field of communication, transmission of data from one place to the other 
 ## components
 Arduino Uno, White LED, Transmitter and Reciever
 
-![LiFi](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjousisu-XlAhXgJzQIHXULCo0QjRx6BAgBEAQ&url=https%3A%2F%2Fdrastitech.wordpress.com%2F2016%2F03%2F21%2Fwhy-visible-light-spectrum-only-for-li-fi%2F&psig=AOvVaw3EiefLQT2sao97gpN2ffT6&ust=1573675183267558) 
+## LiFi spectrum
+![LiFi](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjousisu-XlAhXgJzQIHXULCo0QjRx6BAgBEAQ&url=https%3A%2F%2Fdrastitech.wordpress.com%2F2016%2F03%2F21%2Fwhy-visible-light-spectrum-only-for-li-fi%2F&psig=AOvVaw3EiefLQT2sao97gpN2ffT6&ust=1573675183267558)
+## LiFi Workshop Conducted at Best School 
 ![LiFi Workshop Conducted at Best School](https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-0/cp0/e15/q65/p240x240/27073188_209658779586828_1608471580863105864_n.jpg?_nc_cat=105&efg=eyJpIjoibyJ9&_nc_oc=AQnl2L1QdNm2by5GPfKXjIb6LrMM46ILRm9XMyf4-PiU3F1x63IEW9650VsQ3lLI-4jLCG9uX590BskbF8Zv0TKy&_nc_ht=scontent-ort2-2.xx&oh=24f410ae00c742cd501eb923949afd88&oe=5E47B0CD)
